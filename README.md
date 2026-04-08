@@ -21,7 +21,7 @@
 | Project | Description | Link |
 |---|---|---|
 | `neomovies-web` | Web client (React, TypeScript, Vite) | https://github.com/Neo-Open-Source/neomovies-web |
-| `neomovies-api` | Backend API + docs (Go, MongoDB, VitePress) | https://github.com/Neo-Open-Source/neomovies-api |
+| `neomovies-api` | Backend API + docs (Rust, MongoDB, Docusaurus) | https://github.com/Neo-Open-Source/neomovies-api |
 | `neomovies-android` | Android app (Kotlin, ExoPlayer/libMPV) | https://github.com/Neo-Open-Source/neomovies-android |
 
 </div>
