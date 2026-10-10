@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Neo-Open-Source/.github/main/profile/rights-banner.svg" alt="Trans Rights are Human Rights banner" width="100%" />
-
 <div align="center">
 
 <img src="https://github.com/Neo-Open-Source.png?size=160" alt="Neo Open Source Logo" width="120" height="120" style="border-radius: 24px;" />
